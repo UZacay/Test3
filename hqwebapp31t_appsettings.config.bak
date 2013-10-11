@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
   <appSettings>
-  <!-- test -->
     <!-- Change to allow different interests to be included -->
     <add key="AllowedPartyProductInterestTypes" value="4701,4700,106010,106007" />
     <add key="AllowedProductStatusCodes" value="21,22" />
